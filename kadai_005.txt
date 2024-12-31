@@ -1,0 +1,11 @@
+PS G:\マイドライブ\SAMRAI ENGINEER\git_challenge> git commit -m "hello_world.txt作成"
+[main (root-commit) 26082bd] hello_world.txt作成
+ 1 file changed, 1 insertion(+)
+ create mode 100644 hello_world.txt
+PS G:\マイドライブ\SAMRAI ENGINEER\git_challenge> git add .
+PS G:\マイドライブ\SAMRAI ENGINEER\git_challenge> git commit -m "hello_world.txt編集"
+[main 8e30cd2] hello_world.txt編集
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+PS G:\マイドライブ\SAMRAI ENGINEER\git_challenge> git log --oneline
+8e30cd2 (HEAD -> main) hello_world.txt編集
+26082bd hello_world.txt作成
